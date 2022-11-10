@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v5.6.0-24-g3608ad5">
+        <ModelTarget name="Downtown" targetId="3bd2663392b84f8f820d5b6a04240b7f" version="13.0" toolVersion="v5.6.0-24-g3608ad5" bbox="-0.011189 -0.000780 0.000683 0.003030 0.003677 0.008068" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="low_feature_objects" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="Downtown" assemblyId="27dc69614bfa4870a0032c9110bfaf62">
+        <Part name="Downtown" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

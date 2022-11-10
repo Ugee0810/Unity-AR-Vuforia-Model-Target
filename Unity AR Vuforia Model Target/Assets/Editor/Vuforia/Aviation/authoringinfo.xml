@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v5.6.0-24-g3608ad5">
+        <ModelTarget name="Aviation" targetId="94c478b1a3b34bd8addc817271fdf9de" version="13.0" toolVersion="v5.6.0-24-g3608ad5" bbox="0.008152 -0.001182 0.003917 0.028418 0.002017 0.011253" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="low_feature_objects" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="Aviation" assemblyId="f6d2c9c0cf914113b4c2bd1852a1dcea">
+        <Part name="Aviation" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
